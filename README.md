@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Senior Analytics & BI Leader &nbsp;|&nbsp; Power BI · Microsoft Fabric · Qlik Sense· ML-Augmented Analytics</strong><br/>
   📍 Delhi-NCR, India &nbsp;·&nbsp; 📧 Prashants2512@gmail.com &nbsp;·&nbsp; 📞 +91-82858 15978<br/>
-  <a href="https://linkedin.com/in/PrashantShukla">LinkedIn: PrashantShukla</a>
+  <a href="https://linkedin.com/in/prashantshukla2512">LinkedIn: PrashantShukla</a>
 </p>
 
 ---
