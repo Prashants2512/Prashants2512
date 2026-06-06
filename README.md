@@ -36,28 +36,28 @@ Currently exploring the intersection of **Microsoft Fabric**, **Power BI Copilot
 
 ## Featured Projects
 
-### 📘 [bi-ml-integration-thesis](https://github.com/prashantshukla/bi-ml-integration-thesis) *(coming soon)*
+### 📘 [bi-ml-integration-thesis](https://github.com/prashants2512/bi-ml-integration-thesis) *(coming soon)*
 MSc thesis — applied supervised and unsupervised ML on e-commerce data. Core innovation: LIME feature importance weights implemented as an explainability bridge between ML models and Power BI KPI indicators. Demonstrates that XAI outputs can be consumed directly by a BI semantic layer without additional transformation.
 
 > `Python` · `scikit-learn` · `LIME` · `Clustering` · `Power BI` · `Jupyter Notebooks`
 
 ---
 
-### 📊 [pharma-sales-analytics](https://github.com/prashantshukla/pharma-sales-analytics) *(coming soon)*
+### 📊 [pharma-sales-analytics](https://github.com/prashants2512/pharma-sales-analytics) *(coming soon)*
 End-to-end analytics project on a pharmaceutical sales dataset — exploratory data analysis, trend forecasting, and a structured insight narrative. Domain-specific Python analytics drawn from 10+ years of pharma BI delivery experience.
 
 > `Python` · `Pandas` · `Matplotlib` · `SQL`
 
 ---
 
-### 🧩 [power-bi-dax-patterns](https://github.com/prashantshukla/power-bi-dax-patterns) *(coming soon)*
+### 🧩 [power-bi-dax-patterns](https://github.com/prashants2512/power-bi-dax-patterns) *(coming soon)*
 A curated library of reusable DAX measures, paginated report patterns, semantic model design best practices, and Power BI Service deployment guides — drawn from enterprise delivery across Pharma and Finance domains.
 
 > `DAX` · `Power BI` · `Paginated Reports` · `Data Modelling`
 
 ---
 
-### 🗄️ [sql-data-modelling](https://github.com/prashantshukla/sql-data-modelling) *(coming soon)*
+### 🗄️ [sql-data-modelling](https://github.com/prashants2512/sql-data-modelling) *(coming soon)*
 Star schema and OLAP design walkthroughs, complex query optimisation patterns, and Snowflake data warehouse documentation for analytics use cases in Supply Chain and Finance.
 
 > `SQL` · `Snowflake` · `Star Schema` · `OLAP` · `Data Warehousing`
