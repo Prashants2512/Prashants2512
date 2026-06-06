@@ -1,8 +1,8 @@
 <h1 align="center">Prashant Shukla</h1>
 
 <p align="center">
-  <strong>Senior Analytics & BI Leader &nbsp;|&nbsp; Power BI · Microsoft Fabric · Qlik Sense· ML-Augmented Analytics</strong><br/>
-  📍 Delhi-NCR, India &nbsp;·&nbsp; 📧 Prashants2512@gmail.com &nbsp;·&nbsp; 📞 +91-82858 15978<br/>
+  <strong>Senior Analytics & BI Lead &nbsp;|&nbsp; Power BI · Microsoft Fabric · Qlik Sense· ML-Augmented Analytics</strong><br/>
+  📍 Delhi, India &nbsp;·&nbsp; 📧 Prashants2512@gmail.com &nbsp;·&nbsp; 📞 +91-82858 15978<br/>
   <a href="https://linkedin.com/in/prashantshukla2512">LinkedIn: PrashantShukla</a>
 </p>
 
@@ -12,7 +12,7 @@
 
 Results-driven analytics professional with **10+ years** of architecting end-to-end data and BI solutions across complex, large-scale enterprise environments. Proven track record of leading cross-functional analyst teams of 10–15, defining analytic strategies aligned to business priorities, and driving measurable outcomes through Power BI, Qlik Sense, SQL, and predictive modelling.
 
-Completed an **MSc in Data Science** (IU International University of Applied Sciences, 2026, Grade 2.1) — thesis on integrating supervised and unsupervised ML with Business Intelligence, using LIME explainability as the BI-ML integration bridge. Adept at engaging senior stakeholders, translating ambiguous business requirements into technical solutions, and fostering a culture of continuous innovation.
+Completed an **MSc in Data Science** (IU International University of Applied Sciences) — thesis on integrating supervised and unsupervised ML with Business Intelligence, using LIME explainability as the BI-ML integration bridge. Adept at engaging senior stakeholders, translating ambiguous business requirements into technical solutions, and fostering a culture of continuous innovation.
 
 Currently exploring the intersection of **Microsoft Fabric**, **Power BI Copilot**, and **embedded machine learning** to build the next generation of intelligent analytics products.
 
@@ -21,7 +21,7 @@ Currently exploring the intersection of **Microsoft Fabric**, **Power BI Copilot
 ## Skills
 
 **BI & Visualisation**
-`Power BI` `Qlik Sense` `QlikView` `Microsoft Fabric` `Tableau` `MicroStrategy` `NPrinting` `Power Automate`
+`Power BI` `Qlik Sense` `QlikView` `Microsoft Fabric` `Tableau` `NPrinting` `Power Automate`
 
 **Data Engineering & Warehousing**
 `SQL` `DAX` `ETL / ELT` `Snowflake` `Azure` `OneLake` `Qlik Replicate` `Tableau Prep` `Power Query` `Star Schema / OLAP`
@@ -132,8 +132,8 @@ Star schema and OLAP design walkthroughs, complex query optimisation patterns, a
 
 | Qualification | Institution | Period | Grade / Result |
 |---|---|---|---|
-| MSc Data Science | IU International University of Applied Sciences, Berlin | Apr 2024 – Mar 2026 | 2.1 (German scale — 1 is highest) |
-| B.Tech Electronics & Communication Engineering | ABES Engineering College, UPTU | Jun 2012 – Jun 2016 | — |
+| MSc Data Science | IU International University of Applied Sciences, Berlin, DE | Apr 2024 – Mar 2026 | 2.1 |
+| B.Tech Electronics & Communication | ABES Engineering College, UPTU | Jun 2012 – Jun 2016 | 66.3% |
 | Sr. Secondary (XII) | CBSE | 2011–2012 | 89.34% |
 | High School (X) | CBSE | 2009–2010 | 9.4 CGPA |
 
@@ -147,8 +147,8 @@ Applied supervised and unsupervised ML on e-commerce data; implemented LIME expl
 | Certification | Issuer | Year |
 |---|---|---|
 | Data Science Architecture | Intellipaat | 2025 |
-| Python for Data Science | — | 2024 |
-| Advanced Statistics | — | 2024 |
+| Python for Data Science | Intellipaat | 2024 |
+| Advanced Statistics | Intellipaat | 2024 |
 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | 2023 |
 | Qlik Sense Data Architect | Qlik | 2019 |
 
@@ -156,7 +156,7 @@ Applied supervised and unsupervised ML on e-commerce data; implemented LIME expl
 
 ## Connect
 
-- 💼 [LinkedIn: PrashantShukla](https://linkedin.com/in/PrashantShukla)
+- 💼 [LinkedIn: PrashantShukla](https://linkedin.com/in/prashantshukla2512)
 - 📧 Prashants2512@gmail.com
 - 📞 +91-82858 15978
 
